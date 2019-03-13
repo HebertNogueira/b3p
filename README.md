@@ -7,4 +7,4 @@ __UNICID__ - Universidade Cidade de São Paulo
 
 * Não está 100% funcional.
 * Há diversos erros no sistema e a estrutura está desorganizada.
-* Criado entre 2006 ~ 2017.
+* Criado entre 2016 ~ 2017.
